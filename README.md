@@ -12,11 +12,6 @@ I'm a passionate Flutter Developer specializing in creating cross-platform mobil
 - Advanced Flutter concepts like state management, performance optimization, and testing.
 - Backend development with Firebase for building scalable and secure applications.
 
-## 🔭 Featured Projects
-
-- [MealMate](https://github.com/abhipawar2004/MealMate) - A recipe discovery app built with Flutter, featuring dietary filters and a favorites section.
-- [ExpenseHelper](https://github.com/abhipawar2004/Personal_Expenses) - A simple expense tracking app developed using Flutter.
-
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
