@@ -10,7 +10,7 @@ I'm a passionate Flutter Developer specializing in creating cross-platform mobil
 ## 📚 Currently Learning
 
 - Advanced Flutter concepts like performance optimization, and testing.
-- Integration of AI.
+- Integration of AI and APIs.
 
 ## 🛠️ Languages and Tools
 
