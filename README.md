@@ -41,4 +41,4 @@ I'm a passionate Flutter Developer specializing in creating cross-platform mobil
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhipawar2004&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar2004&layout=compact&theme=radical" width="352">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar2004&layout=compact&theme=radical" width="352">
