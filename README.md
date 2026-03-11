@@ -15,7 +15,7 @@
 
 - 🚀 Currently working at **Vaultpay Solutions Pvt. Ltd**
 
-- 🌱 I'm currently learning **Advanced Flutter concepts like performance optimization, testing, and AI/API integration**
+- 🌱 I'm currently learning **Advanced Flutter concepts like performance optimization, testing, and AI-API integration**
 
 - 💬 Ask me about **Flutter, Dart, Mobile App Development**
 
